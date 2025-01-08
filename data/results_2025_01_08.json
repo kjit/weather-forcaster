@@ -1,0 +1,142 @@
+[
+    {
+        "temperature": 20,
+        "humidity": 65,
+        "precipitation": 10,
+        "cloudCover": 40,
+        "windDirection": "N",
+        "windSpeed": 15,
+        "occurrenceTime": "2025-01-08T20:06:39Z",
+        "location": {
+            "longitude": 54.0,
+            "latitude": 24.0,
+            "name": "Location1"
+        }
+    },
+    {
+        "temperature": 22,
+        "humidity": 70,
+        "precipitation": 5,
+        "cloudCover": 30,
+        "windDirection": "NE",
+        "windSpeed": 10,
+        "occurrenceTime": "2025-01-08T21:06:39Z",
+        "location": {
+            "longitude": 55.0,
+            "latitude": 25.0,
+            "name": "Location2"
+        }
+    },
+    {
+        "temperature": 18,
+        "humidity": 60,
+        "precipitation": 20,
+        "cloudCover": 50,
+        "windDirection": "E",
+        "windSpeed": 20,
+        "occurrenceTime": "2025-01-08T19:26:39Z",
+        "location": {
+            "longitude": 56.0,
+            "latitude": 26.0,
+            "name": "Location3"
+        }
+    },
+    {
+        "temperature": 25,
+        "humidity": 75,
+        "precipitation": 0,
+        "cloudCover": 20,
+        "windDirection": "SE",
+        "windSpeed": 5,
+        "occurrenceTime": "2025-01-08T19:28:39Z",
+        "location": {
+            "longitude": 57.0,
+            "latitude": 27.0,
+            "name": "Location4"
+        }
+    },
+    {
+        "temperature": 16,
+        "humidity": 55,
+        "precipitation": 15,
+        "cloudCover": 60,
+        "windDirection": "S",
+        "windSpeed": 25,
+        "occurrenceTime": "2025-01-08T19:36:39Z",
+        "location": {
+            "longitude": 58.0,
+            "latitude": 28.0,
+            "name": "Location5"
+        }
+    },
+    {
+        "temperature": 21,
+        "humidity": 68,
+        "precipitation": 8,
+        "cloudCover": 45,
+        "windDirection": "SW",
+        "windSpeed": 18,
+        "occurrenceTime": "2025-01-08T19:42:39Z",
+        "location": {
+            "longitude": 59.0,
+            "latitude": 29.0,
+            "name": "Location6"
+        }
+    },
+    {
+        "temperature": 19,
+        "humidity": 63,
+        "precipitation": 12,
+        "cloudCover": 35,
+        "windDirection": "W",
+        "windSpeed": 12,
+        "occurrenceTime": "2025-01-08T19:46:39Z",
+        "location": {
+            "longitude": 60.0,
+            "latitude": 30.0,
+            "name": "Location7"
+        }
+    },
+    {
+        "temperature": 24,
+        "humidity": 72,
+        "precipitation": 3,
+        "cloudCover": 25,
+        "windDirection": "NW",
+        "windSpeed": 8,
+        "occurrenceTime": "2025-01-08T19:52:39Z",
+        "location": {
+            "longitude": 61.0,
+            "latitude": 31.0,
+            "name": "Location8"
+        }
+    },
+    {
+        "temperature": 17,
+        "humidity": 58,
+        "precipitation": 18,
+        "cloudCover": 55,
+        "windDirection": "NE",
+        "windSpeed": 22,
+        "occurrenceTime": "2025-01-08T19:57:39Z",
+        "location": {
+            "longitude": 62.0,
+            "latitude": 32.0,
+            "name": "Location9"
+        }
+    },
+    {
+        "temperature": 23,
+        "humidity": 67,
+        "precipitation": 7,
+        "cloudCover": 38,
+        "windDirection": "E",
+        "windSpeed": 14,
+        "occurrenceTime": "2025-01-08T20:01:39Z",
+        "location": {
+            "longitude": 63.0,
+            "latitude": 33.0,
+            "name": "Location10"
+        }
+    }
+]
