@@ -1,5 +1,6 @@
 package com.github.kjit.wf.engine;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
 import java.time.LocalDateTime;
 
 public record Weather(
@@ -10,6 +11,8 @@ public record Weather(
     Direction windDirection,
     int windSpeed,
     Location location,
-    LocalDateTime occurenceTime)   
+    
+    @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd'T'HH:mm:ss'Z'") LocalDateTime occurrenceTime
+    )   
 {
     }
